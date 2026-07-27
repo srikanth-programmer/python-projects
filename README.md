@@ -5,7 +5,7 @@ This repository contains a collection of Python projects created while working t
 ## Projects
 
 ### 1. GitHub User Activity CLI
-A simple command-line tool that fetches and displays recent public GitHub activity for a given username.
+A simple command-line tool that fetches and displays recent public GitHub activity for a given username. This project is based on the Roadmap.sh challenge: https://roadmap.sh/projects/github-user-activity
 
 - Location: [github-user-activity-cli](github-user-activity-cli)
 - Main file: [github-user-activity-cli/github_activity.py](github-user-activity-cli/github_activity.py)
